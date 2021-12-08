@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<body>
+
+
+<table>
+    <tr>
+      <th>Bat Type</th>
+      <th>Bat Material</th>
+      <th>Bat Length</th>
+    </tr>
+    <tr>
+      <td>One Piece</td>
+      <td>Composite</td>
+      <td>30 Inch</td>
+    </tr>
+    <tr>
+      <td>Two Piece</td>
+      <td>Alloy</td>
+      <td>29 Inch</td>
+    </tr>
+    <link rel="stylesheet" href="styles.css">
+
+  </table>
+  </body>
+  </html>
